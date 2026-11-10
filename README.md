@@ -2,6 +2,8 @@
 
 Turn any PDF into a page-turning flipbook, right in your browser.
 
+**Live demo:** https://lakshya-aran.github.io/flipbook-maker/
+
 Drop in a PDF and Flipleaf renders each page into an interactive book you can flip through with realistic page-turn animations. Everything runs on the client side — no server, no uploads. Your books stay in your browser's storage.
 
 ## Features
